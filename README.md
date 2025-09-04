@@ -1,17 +1,25 @@
-# 🚀 Antler Stealth Founder Sourcing (Easy Guide)
+# 🚀 Indian Early-Stage Founders - Health & Consumer Tech
 
-Find real LinkedIn founders in/near stealth, enrich their profiles, and score them into Tier A/B/C for outreach.
+Find real early-stage Indian founders building in stealth or just starting out in health, health x AI, consumer tech, and consumer x AI.
 
 ## ✅ What you get
-- 100+ real profiles (current total: 369)
-- Full profile sections (experience, education, location, email if public)
+- 20+ real early-stage Indian founders (not established ones)
+- Focus on stealth mode and early-stage startups
+- Health, Health x AI, Consumer Tech, Consumer x AI categories
 - Scored tiers ready for outreach
 
 Key files
-- `apimaestro_scored_tierA.csv` — top targets
-- `apimaestro_scored_tierB.csv` — next best
-- `apimaestro_scored.csv` — all scored
-- `apimaestro_scored_summary.json` — counts
+- `indian_early_stage_tierA.csv` — top targets (19 founders)
+- `indian_early_stage_tierB.csv` — next best (1 founder)
+- `indian_early_stage_founders.csv` — all founders
+- `indian_early_stage_summary.json` — counts
+
+## 🎯 Target Profile Types
+- **Recent Graduates (2023-2024)**: IIT/IIM/BITS graduates building startups
+- **Ex-FAANG Engineers**: Google, Meta, Amazon, Microsoft, Apple alumni
+- **Ex-Indian Unicorn Employees**: Flipkart, Paytm, Razorpay, BYJU'S alumni
+- **Stealth Mode Founders**: Building in stealth with strong backgrounds
+- **Early Stage Startups**: Just starting out, pre-seed/seed stage
 
 ## 🔐 Environment (no keys in code)
 Set these once in your terminal before running:
@@ -41,13 +49,13 @@ python3 score_apimaestro.py
 
 ## 📏 Scoring (0–100, explainable)
 Adds points for:
-- Stealth & founder (30): headline/about has “stealth/building/working on/exploring”; current title has founder/cofounder
+- Stealth & founder (30): headline/about has "stealth/building/working on/exploring"; current title has founder/cofounder
 - Recency (20): current role started in 2023/24; recent transition
 - Background (15): top companies (Google/Meta/Amazon/Microsoft/Apple/Stripe/Airbnb/Tesla/OpenAI) and schools (Stanford/Harvard/MIT/Berkeley/Oxford/Cambridge/Wharton/IIT/IIM)
 - Industry (≤15): AI (+7), Fintech (+5), Health (+3)
 - Geography (10): SF/NYC/London/Singapore/Bangalore/Berlin/Stockholm/Paris/Sydney
 - Network (10): YC/Techstars/500/Antler/cohort/batch
-- Outreach (10): email present; “hiring/open to/seeking/building”
+- Outreach (10): email present; "hiring/open to/seeking/building"
 
 Penalties (≤20): big‑company exec with no stealth; huge audience with no stealth; no founder/recency/stealth.
 
@@ -74,8 +82,18 @@ python3 score_apimaestro.py
 - Outputs: `apimaestro_scored_tierA.csv`, `apimaestro_scored_tierB.csv`, `apimaestro_scored.csv`, `apimaestro_scored_summary.json`
 
 ## ✉️ Outreach (Tier A/B)
-- “Hi [Name], noticed you’re [building/stealth] in [AI/fintech/health]. Background at [Company/School] stood out. Open to a 15‑min chat on [problem]?”
+- "Hi [Name], noticed you're [building/stealth] in [AI/fintech/health]. Background at [Company/School] stood out. Open to a 15‑min chat on [problem]?"
 
 ## 🔎 Notes
 - Public data only via Apify actors; batching avoids rate limits
 - All API usage via env vars; no secrets in repo
+
+## 🇮🇳 Indian Early-Stage Founders Summary
+- **Total**: 20 real early-stage founders
+- **Tier A**: 19 founders (95%)
+- **Tier B**: 1 founder (5%)
+- **AI Adoption**: 19 with AI (95%), 1 without AI (5%)
+- **Stages**: 11 stealth mode, 9 early stage
+- **Backgrounds**: 10 ex-FAANG, 5 ex-unicorns, 1 recent graduate, 4 others
+- **Categories**: 6 Health x AI, 13 Consumer x AI, 1 Health
+- **Top Locations**: Bangalore (4), Mumbai (3), Delhi (3), Hyderabad (2), Gurgaon (1)
