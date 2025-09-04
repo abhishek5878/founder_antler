@@ -1,0 +1,201 @@
+{
+  "total_profiles": 20,
+  "high_fit_profiles": 9,
+  "medium_fit_profiles": 11,
+  "low_fit_profiles": 0,
+  "top_profiles": [
+    {
+      "url": "https://www.linkedin.com/in/sarah-chen-2024/",
+      "name": "Sarah Chen",
+      "headline": "Building something in stealth | Ex-Google ML Engineer | Stanford CS 2024",
+      "location": "San Francisco Bay Area",
+      "background": "Google, Stanford",
+      "stealth_indicators": [
+        "building something",
+        "stealth",
+        "recent graduate"
+      ],
+      "antler_fit_score": 8,
+      "key_insights": "Recent Stanford CS graduate building AI startup in stealth",
+      "conversation_starters": [
+        "Hi Sarah! I noticed you recently graduated from Stanford and are building something in stealth. Would love to hear about what you're working on!",
+        "Your background in ML at Google is impressive. What's the most exciting problem you're solving right now?",
+        "I'm curious about your transition from Google to building in stealth. What opportunity are you most passionate about?"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/mike-wilson-ai/",
+      "name": "Mike Wilson",
+      "headline": "Building AI startup in stealth | Ex-Meta AI Engineer | Harvard MBA 2023",
+      "location": "New York, NY",
+      "background": "Meta, Harvard",
+      "stealth_indicators": [
+        "building AI startup",
+        "stealth",
+        "ex-meta"
+      ],
+      "antler_fit_score": 8,
+      "key_insights": "Ex-Meta AI engineer building stealth AI startup",
+      "conversation_starters": [
+        "Hi Mike! I noticed your transition from Meta to building an AI startup in stealth. What's the most exciting opportunity you're pursuing?",
+        "Your experience in AI at Meta is fascinating. What problem are you most passionate about solving?",
+        "I'd love to learn about your journey from Meta to building in stealth. What's driving you to start something new?"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/emma-davis-fintech/",
+      "name": "Emma Davis",
+      "headline": "Building fintech startup in stealth | Ex-Stripe Engineer | Berkeley CS 2024",
+      "location": "San Francisco Bay Area",
+      "background": "Stripe, Berkeley",
+      "stealth_indicators": [
+        "building fintech startup",
+        "stealth",
+        "ex-stripe"
+      ],
+      "antler_fit_score": 8,
+      "key_insights": "Ex-Stripe engineer building stealth fintech startup",
+      "conversation_starters": [
+        "Hi Emma! I noticed your transition from Stripe to building a fintech startup in stealth. What's the most exciting opportunity you're pursuing?",
+        "Your experience at Stripe is impressive. What problem in fintech are you most passionate about solving?",
+        "I'd love to learn about your journey from Stripe to building in stealth. What's driving you to start something new?"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/david-lee-healthtech/",
+      "name": "David Lee",
+      "headline": "Building healthtech startup in stealth | Ex-Apple Health Engineer | MIT PhD 2023",
+      "location": "Boston, MA",
+      "background": "Apple, MIT",
+      "stealth_indicators": [
+        "building healthtech startup",
+        "stealth",
+        "ex-apple"
+      ],
+      "antler_fit_score": 8,
+      "key_insights": "Ex-Apple Health engineer with MIT PhD building stealth healthtech startup",
+      "conversation_starters": [
+        "Hi David! I noticed your transition from Apple Health to building a healthtech startup in stealth. What's the most exciting opportunity you're pursuing?",
+        "Your experience at Apple Health and MIT PhD is impressive. What problem in healthtech are you most passionate about solving?",
+        "I'd love to learn about your journey from Apple to building in stealth. What's driving you to start something new?"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/alex-turner-building/",
+      "name": "Alex Turner",
+      "headline": "Building AI startup in stealth | Ex-Microsoft AI Engineer | Berkeley PhD 2023",
+      "location": "Seattle, WA",
+      "background": "Microsoft, Berkeley",
+      "stealth_indicators": [
+        "building AI startup",
+        "stealth",
+        "ex-microsoft"
+      ],
+      "antler_fit_score": 8,
+      "key_insights": "Ex-Microsoft AI engineer with Berkeley PhD building stealth AI startup",
+      "conversation_starters": [
+        "Hi Alex! I noticed your transition from Microsoft to building an AI startup in stealth. What's the most exciting opportunity you're pursuing?",
+        "Your experience in AI at Microsoft and Berkeley PhD is impressive. What problem are you most passionate about solving?",
+        "I'd love to learn about your journey from Microsoft to building in stealth. What's driving you to start something new?"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/nina-petrov-exploring/",
+      "name": "Nina Petrov",
+      "headline": "Exploring opportunities in AI | Ex-Google Brain Researcher | MIT PhD 2024",
+      "location": "Cambridge, MA",
+      "background": "Google Brain, MIT",
+      "stealth_indicators": [
+        "exploring opportunities",
+        "AI",
+        "ex-google brain"
+      ],
+      "antler_fit_score": 8,
+      "key_insights": "Ex-Google Brain researcher with MIT PhD exploring AI opportunities",
+      "conversation_starters": [
+        "Hi Nina! I noticed you're exploring opportunities in AI after your time at Google Brain. What's the most exciting direction you're considering?",
+        "Your experience at Google Brain and MIT PhD is impressive. What problem in AI are you most passionate about solving?",
+        "I'd love to learn about your journey from Google Brain to exploring new opportunities. What's driving you to start something new?"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/wei-chen-founder/",
+      "name": "Wei Chen",
+      "headline": "Founder building in stealth | Ex-Tesla Engineer | Berkeley PhD 2023",
+      "location": "San Francisco Bay Area",
+      "background": "Tesla, Berkeley",
+      "stealth_indicators": [
+        "founder",
+        "building",
+        "stealth",
+        "ex-tesla"
+      ],
+      "antler_fit_score": 8,
+      "key_insights": "Ex-Tesla engineer with Berkeley PhD building startup in stealth",
+      "conversation_starters": [
+        "Hi Wei! I noticed your transition from Tesla to building a startup in stealth. What's the most exciting opportunity you're pursuing?",
+        "Your experience at Tesla and Berkeley PhD is impressive. What problem are you most passionate about solving?",
+        "I'd love to learn about your journey from Tesla to building in stealth. What's driving you to start something new?"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/ryan-kim-entrepreneur/",
+      "name": "Ryan Kim",
+      "headline": "Entrepreneur building in stealth | Ex-Airbnb Engineer | Stanford MBA 2023",
+      "location": "San Francisco Bay Area",
+      "background": "Airbnb, Stanford",
+      "stealth_indicators": [
+        "entrepreneur",
+        "building",
+        "stealth",
+        "ex-airbnb"
+      ],
+      "antler_fit_score": 8,
+      "key_insights": "Ex-Airbnb engineer with Stanford MBA building startup in stealth",
+      "conversation_starters": [
+        "Hi Ryan! I noticed your transition from Airbnb to building a startup in stealth. What's the most exciting opportunity you're pursuing?",
+        "Your experience at Airbnb and Stanford MBA is impressive. What problem are you most passionate about solving?",
+        "I'd love to learn about your journey from Airbnb to building in stealth. What's driving you to start something new?"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/amanda-foster-ceo/",
+      "name": "Amanda Foster",
+      "headline": "CEO building in stealth | Ex-LinkedIn Engineer | Harvard MBA 2024",
+      "location": "San Francisco Bay Area",
+      "background": "LinkedIn, Harvard",
+      "stealth_indicators": [
+        "CEO",
+        "building",
+        "stealth",
+        "ex-linkedin"
+      ],
+      "antler_fit_score": 8,
+      "key_insights": "Ex-LinkedIn engineer with Harvard MBA building startup in stealth",
+      "conversation_starters": [
+        "Hi Amanda! I noticed your transition from LinkedIn to building a startup in stealth. What's the most exciting opportunity you're pursuing?",
+        "Your experience at LinkedIn and Harvard MBA is impressive. What problem are you most passionate about solving?",
+        "I'd love to learn about your journey from LinkedIn to building in stealth. What's driving you to start something new?"
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/in/lisa-kim-stealth/",
+      "name": "Lisa Kim",
+      "headline": "Building something in stealth | Ex-Amazon ML Engineer | Stanford MBA 2024",
+      "location": "Seattle, WA",
+      "background": "Amazon, Stanford",
+      "stealth_indicators": [
+        "building something",
+        "stealth",
+        "ex-amazon"
+      ],
+      "antler_fit_score": 7,
+      "key_insights": "Ex-Amazon ML engineer with Stanford MBA building in stealth",
+      "conversation_starters": [
+        "Hi Lisa! I noticed your transition from Amazon to building something in stealth. What's the most exciting opportunity you're pursuing?",
+        "Your experience in ML at Amazon is impressive. What problem are you most passionate about solving?",
+        "I'd love to learn about your journey from Amazon to building in stealth. What's driving you to start something new?"
+      ]
+    }
+  ]
+}

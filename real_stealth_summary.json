@@ -1,0 +1,64 @@
+{
+  "total_profiles_found": 1,
+  "profiles": [
+    {
+      "url": "https://www.linkedin.com/in/ahmedaima",
+      "name": "Unknown",
+      "headline": "Unknown",
+      "stealth_indicators": [
+        "site:linkedin.com/in/ \"fintech\" AND \"stealth\""
+      ],
+      "antler_fit_score": 6,
+      "key_insights": "Found via search: site:linkedin.com/in/ \"fintech\" AND \"stealth\"",
+      "conversation_starters": [
+        "Hi! I noticed your profile through a search for site:linkedin.com/in/ \"fintech\" AND \"stealth\". Would love to learn more about what you're building!",
+        "I'm reaching out because I'm interested in connecting with founders building in stealth mode.",
+        "Would love to hear about what you're working on and see if there's potential for collaboration."
+      ]
+    }
+  ],
+  "search_queries_used": [
+    "site:linkedin.com/in/ \"building something\"",
+    "site:linkedin.com/in/ \"stealth mode\"",
+    "site:linkedin.com/in/ \"working on something\"",
+    "site:linkedin.com/in/ \"exploring opportunities\"",
+    "site:linkedin.com/in/ \"recently left\" AND \"building\"",
+    "site:linkedin.com/in/ \"just left\" AND \"building\"",
+    "site:linkedin.com/in/ \"transitioning\" AND \"building\"",
+    "site:linkedin.com/in/ \"2024\" AND \"building\"",
+    "site:linkedin.com/in/ \"2023\" AND \"building\"",
+    "site:linkedin.com/in/ \"recent graduate\" AND \"building\"",
+    "site:linkedin.com/in/ \"ex-google\" AND \"building\"",
+    "site:linkedin.com/in/ \"ex-meta\" AND \"building\"",
+    "site:linkedin.com/in/ \"ex-amazon\" AND \"building\"",
+    "site:linkedin.com/in/ \"ex-microsoft\" AND \"building\"",
+    "site:linkedin.com/in/ \"ex-apple\" AND \"building\"",
+    "site:linkedin.com/in/ \"MBA\" AND \"2024\" AND \"building\"",
+    "site:linkedin.com/in/ \"MBA\" AND \"2023\" AND \"building\"",
+    "site:linkedin.com/in/ \"ML engineer\" AND \"building\"",
+    "site:linkedin.com/in/ \"AI engineer\" AND \"building\"",
+    "site:linkedin.com/in/ \"data scientist\" AND \"building\"",
+    "site:linkedin.com/in/ \"YC\" AND \"building\"",
+    "site:linkedin.com/in/ \"500 startups\" AND \"building\"",
+    "site:linkedin.com/in/ \"techstars\" AND \"building\"",
+    "site:linkedin.com/in/ \"San Francisco\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"New York\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"London\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"Singapore\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"Bangalore\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"AI\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"fintech\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"healthtech\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"edtech\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"web3\" AND \"stealth\"",
+    "site:linkedin.com/in/ \"PhD\" AND \"building\"",
+    "site:linkedin.com/in/ \"PhD student\" AND \"building\"",
+    "site:linkedin.com/in/ \"postdoc\" AND \"building\"",
+    "site:linkedin.com/in/ \"angel investor\" AND \"building\"",
+    "site:linkedin.com/in/ \"investor\" AND \"building\"",
+    "site:linkedin.com/in/ \"ex-mckinsey\" AND \"building\"",
+    "site:linkedin.com/in/ \"ex-bain\" AND \"building\"",
+    "site:linkedin.com/in/ \"ex-bcg\" AND \"building\"",
+    "site:linkedin.com/in/ \"ex-deloitte\" AND \"building\""
+  ]
+}

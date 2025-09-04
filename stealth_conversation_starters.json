@@ -1,0 +1,42 @@
+{
+  "recent_graduates": [
+    "I noticed you recently graduated from [University] and are building in [field]. Would love to hear about what you're working on!",
+    "Your background in [field] is impressive. What's the most exciting problem you're solving right now?",
+    "I see you're exploring opportunities in [industry]. What's driving your interest in this space?"
+  ],
+  "ex_faang": [
+    "Your experience at [Company] is fascinating. What made you decide to start building something new?",
+    "I'm curious about your transition from [Company] to building in stealth. What problem are you most excited to solve?",
+    "Your background at [Company] is perfect for [industry]. What's the biggest opportunity you see?"
+  ],
+  "transitioning": [
+    "I see you're transitioning from [background] to building something new. What's the story behind this shift?",
+    "Your experience in [field] is valuable for startups. What opportunity are you most excited about?",
+    "I'm curious about your journey from [background] to building. What problem are you passionate about solving?"
+  ],
+  "phd_research": [
+    "Your research in [field] is fascinating. How are you applying this to your current project?",
+    "I see you're transitioning from academia to building. What's the most exciting application of your research?",
+    "Your PhD work in [field] is impressive. What problem are you solving that leverages this expertise?"
+  ],
+  "angel_investors": [
+    "Your experience as an angel investor gives you great perspective. What's the most exciting trend you're seeing?",
+    "I'm curious about your transition from investing to building. What opportunity are you most excited about?",
+    "Your network and experience are valuable. What problem are you passionate about solving?"
+  ],
+  "consultants": [
+    "Your consulting experience in [field] is valuable. What opportunity are you most excited to pursue?",
+    "I see you're building in [industry]. How does your consulting background inform your approach?",
+    "Your expertise in [field] is perfect for startups. What problem are you solving?"
+  ],
+  "geographic_focus": [
+    "I'm excited about the [region] startup ecosystem. What's the biggest opportunity you see there?",
+    "Your focus on [region] is interesting. What unique insights do you have about this market?",
+    "I see you're building in [region]. What's the most exciting trend you're observing?"
+  ],
+  "industry_focus": [
+    "Your work in [industry] is fascinating. What's the biggest problem you're solving?",
+    "I'm excited about [industry]. What opportunity are you most passionate about?",
+    "Your expertise in [industry] is valuable. What's the most exciting trend you're seeing?"
+  ]
+}

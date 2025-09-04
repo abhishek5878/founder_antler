@@ -1,0 +1,94 @@
+[
+  {
+    "linkedin": "https://www.linkedin.com/in/anubhab/",
+    "headline": "Building AI startup in stealth mode | Ex-Google ML Engineer | Stanford CS 2024",
+    "scoring": {
+      "total_score": 3.67,
+      "stealth_score": 4,
+      "recent_score": 4,
+      "background_score": 5,
+      "industry_score": 5,
+      "geo_score": 0,
+      "network_score": 0,
+      "conversation_score": 7.5,
+      "investment_readiness": "Low",
+      "market_categories": [
+        "AI/ML",
+        "Edtech"
+      ],
+      "geographic_focus": [
+        "Global"
+      ],
+      "antler_fit": "Low"
+    },
+    "conversation_starters": [
+      "I noticed you recently graduated and are building in [field]. Would love to hear about what you're working on!",
+      "Your background in [field] is impressive. What's the most exciting problem you're solving right now?",
+      "Your experience at [Company] is fascinating. What made you decide to start building something new?",
+      "I'm curious about your transition from [Company] to building in stealth. What problem are you most excited to solve?",
+      "I see you're building in stealth mode. What's the biggest opportunity you're pursuing?",
+      "Your stealth project sounds exciting. What problem are you passionate about solving?",
+      "Your work in AI/ML is fascinating. What's the most exciting application you're building?"
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/in/tejasvi-ravi-082b352b/",
+    "headline": "Exploring fintech opportunities | Ex-McKinsey | Harvard MBA 2023",
+    "scoring": {
+      "total_score": 2.85,
+      "stealth_score": 4,
+      "recent_score": 4,
+      "background_score": 4,
+      "industry_score": 2,
+      "geo_score": 0,
+      "network_score": 0,
+      "conversation_score": 3.0,
+      "investment_readiness": "Low",
+      "market_categories": [
+        "Fintech"
+      ],
+      "geographic_focus": [
+        "Global"
+      ],
+      "antler_fit": "Low"
+    },
+    "conversation_starters": [
+      "I noticed you recently graduated and are building in [field]. Would love to hear about what you're working on!",
+      "Your background in [field] is impressive. What's the most exciting problem you're solving right now?",
+      "I see you're building in stealth mode. What's the biggest opportunity you're pursuing?",
+      "Your stealth project sounds exciting. What problem are you passionate about solving?",
+      "I'm excited about fintech innovation. What opportunity are you most passionate about?"
+    ]
+  },
+  {
+    "linkedin": "https://www.linkedin.com/in/sonia-vora-4b321377/",
+    "headline": "Building healthtech startup | Ex-Amazon | Berkeley BioE 2024",
+    "scoring": {
+      "total_score": 2.9,
+      "stealth_score": 4,
+      "recent_score": 2,
+      "background_score": 6,
+      "industry_score": 3,
+      "geo_score": 0,
+      "network_score": 0,
+      "conversation_score": 3.0,
+      "investment_readiness": "Low",
+      "market_categories": [
+        "Healthtech"
+      ],
+      "geographic_focus": [
+        "Global"
+      ],
+      "antler_fit": "Low"
+    },
+    "conversation_starters": [
+      "I noticed you recently graduated and are building in [field]. Would love to hear about what you're working on!",
+      "Your background in [field] is impressive. What's the most exciting problem you're solving right now?",
+      "Your experience at [Company] is fascinating. What made you decide to start building something new?",
+      "I'm curious about your transition from [Company] to building in stealth. What problem are you most excited to solve?",
+      "I see you're building in stealth mode. What's the biggest opportunity you're pursuing?",
+      "Your stealth project sounds exciting. What problem are you passionate about solving?",
+      "Healthcare innovation is crucial. What problem are you solving that could make a real impact?"
+    ]
+  }
+]

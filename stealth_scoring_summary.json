@@ -1,0 +1,20 @@
+{
+  "total_profiles_scored": 3,
+  "scoring_focus": "Early-stage stealth founders for Antler conversations",
+  "scoring_criteria": {
+    "stealth_score": "25% - stealth indicators",
+    "recent_score": "20% - recent activity",
+    "background_score": "15% - background quality",
+    "industry_score": "15% - industry focus",
+    "geo_score": "10% - geographic focus",
+    "network_score": "10% - network/accelerator",
+    "conversation_score": "5% - conversation potential"
+  },
+  "next_steps": [
+    "1. Apply scoring to real early-stage profiles",
+    "2. Filter for high-scoring candidates (7.0+)",
+    "3. Use conversation starters for outreach",
+    "4. Focus on Antler-fit profiles",
+    "5. Prepare personalized messages"
+  ]
+}

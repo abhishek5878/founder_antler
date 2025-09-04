@@ -1,0 +1,18 @@
+# LinkedIn Configuration
+LINKEDIN_EMAIL=your_linkedin_email@example.com
+LINKEDIN_PASSWORD=your_linkedin_password
+
+# OpenAI Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# SerpAPI Configuration (for Google search)
+SERPAPI_KEY=your_serpapi_key_here
+
+# Firecrawl Configuration (for web scraping)
+FIRECRAWL_API_KEY=fc-c83917a6cac346188aaec46390364d25
+
+# Database Configuration (optional - defaults to SQLite)
+DATABASE_URL=sqlite:///founder_sourcing.db
+
+# Redis Configuration (optional - for caching)
+REDIS_URL=redis://localhost:6379

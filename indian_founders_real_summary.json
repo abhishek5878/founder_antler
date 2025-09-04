@@ -1,0 +1,36 @@
+{
+  "total_founders": 51,
+  "categories": {
+    "Health x AI": 7,
+    "Consumer x AI": 26,
+    "Health": 8,
+    "Consumer Tech": 10
+  },
+  "locations": {
+    "Mumbai, Maharashtra, India": 7,
+    "Bangalore, Karnataka, India": 19,
+    "Delhi, India": 3,
+    "Hyderabad, Telangana, India": 1,
+    "Gurgaon, Haryana, India": 8,
+    "Pune, Maharashtra, India": 1,
+    "Chennai, Tamil Nadu, India": 2,
+    "Noida, Uttar Pradesh, India": 2,
+    "Ahmedabad, Gujarat, India": 1,
+    "Kolkata, West Bengal, India": 1,
+    "Jaipur, Rajasthan, India": 1,
+    "Indore, Madhya Pradesh, India": 1,
+    "Chandigarh, India": 1,
+    "Vadodara, Gujarat, India": 1,
+    "Surat, Gujarat, India": 1,
+    "Nagpur, Maharashtra, India": 1
+  },
+  "tiers": {
+    "A": 25,
+    "B": 25,
+    "C": 1
+  },
+  "ai_adoption": {
+    "with_ai": 33,
+    "without_ai": 18
+  }
+}
