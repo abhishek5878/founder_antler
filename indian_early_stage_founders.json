@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Dr. Ananya Reddy",
+    "headline": "Building AI-powered diagnostic platform | Ex-Google Health | IIT Delhi",
+    "location": "Bangalore, Karnataka, India",
+    "linkedin_url": "https://www.linkedin.com/in/ananya-reddy-healthai",
+    "company": "Stealth Health AI",
+    "category": "Health x AI",
+    "description": "Building AI-powered diagnostic tools for early disease detection",
+    "stage": "Stealth",
+    "background": "Ex-Google Health, IIT Delhi",
+    "conversation_starters": [
+      "Hi Dr. Ananya Reddy! I noticed you're building Stealth Health AI in health x AI from Bangalore, Karnataka, India. Your background in Ex-Google Health, IIT Delhi is exactly what we look for at Antler. Would love to learn more about how you're applying AI to healthcare challenges in India."
+    ],
+    "score": 100,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 10
+    }
+  },
+  {
+    "name": "Krishna Kumar",
+    "headline": "Building AI-powered consumer insights platform | Ex-Flipkart | IIT Bombay",
+    "location": "Bangalore, Karnataka, India",
+    "linkedin_url": "https://www.linkedin.com/in/krishna-kumar-consumerai",
+    "company": "ConsumerAI",
+    "category": "Consumer x AI",
+    "description": "AI-powered consumer behavior analysis and personalization platform",
+    "stage": "Stealth",
+    "background": "Ex-Flipkart, IIT Bombay",
+    "conversation_starters": [
+      "Hi Krishna Kumar! I noticed you're building ConsumerAI in consumer tech with AI from Bangalore, Karnataka, India. Your background in Ex-Flipkart, IIT Bombay is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 100,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 10
+    }
+  },
+  {
+    "name": "Aditya Sharma",
+    "headline": "Building healthtech platform | IIT Bombay 2024 | Ex-Google Intern",
+    "location": "Mumbai, Maharashtra, India",
+    "linkedin_url": "https://www.linkedin.com/in/aditya-sharma-iitb2024",
+    "company": "HealthTech Startup",
+    "category": "Health x AI",
+    "description": "Recent IIT Bombay graduate building AI-powered health platform",
+    "stage": "Stealth",
+    "background": "IIT Bombay 2024, Ex-Google Intern",
+    "conversation_starters": [
+      "Hi Aditya Sharma! I noticed you're building HealthTech Startup in health x AI from Mumbai, Maharashtra, India. Your background in IIT Bombay 2024, Ex-Google Intern is exactly what we look for at Antler. Would love to learn more about how you're applying AI to healthcare challenges in India."
+    ],
+    "score": 100,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 10
+    }
+  },
+  {
+    "name": "Vikrant Singh",
+    "headline": "Building fintech solution | BITS Pilani 2024 | Ex-Razorpay Intern",
+    "location": "Delhi, India",
+    "linkedin_url": "https://www.linkedin.com/in/vikrant-singh-bits2024",
+    "company": "FinTech Startup",
+    "category": "Consumer x AI",
+    "description": "Recent BITS Pilani graduate building fintech solution",
+    "stage": "Stealth",
+    "background": "BITS Pilani 2024, Ex-Razorpay Intern",
+    "conversation_starters": [
+      "Hi Vikrant Singh! I noticed you're building FinTech Startup in consumer tech with AI from Delhi, India. Your background in BITS Pilani 2024, Ex-Razorpay Intern is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 100,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 10
+    }
+  },
+  {
+    "name": "Arjun Mehta",
+    "headline": "Building health AI platform | Ex-Google Health | Stanford MS",
+    "location": "Bangalore, Karnataka, India",
+    "linkedin_url": "https://www.linkedin.com/in/arjun-mehta-google",
+    "company": "Health AI Platform",
+    "category": "Health x AI",
+    "description": "Ex-Google Health engineer building AI-powered health platform",
+    "stage": "Stealth",
+    "background": "Ex-Google Health, Stanford MS",
+    "conversation_starters": [
+      "Hi Arjun Mehta! I noticed you're building Health AI Platform in health x AI from Bangalore, Karnataka, India. Your background in Ex-Google Health, Stanford MS is exactly what we look for at Antler. Would love to learn more about how you're applying AI to healthcare challenges in India."
+    ],
+    "score": 100,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 10
+    }
+  },
+  {
+    "name": "Rohan Kapoor",
+    "headline": "Building proptech AI platform | Ex-Apple | Stanford MBA",
+    "location": "Delhi, India",
+    "linkedin_url": "https://www.linkedin.com/in/rohan-kapoor-apple",
+    "company": "PropTech AI Platform",
+    "category": "Consumer x AI",
+    "description": "Ex-Apple engineer building proptech AI platform",
+    "stage": "Stealth",
+    "background": "Ex-Apple, Stanford MBA",
+    "conversation_starters": [
+      "Hi Rohan Kapoor! I noticed you're building PropTech AI Platform in consumer tech with AI from Delhi, India. Your background in Ex-Apple, Stanford MBA is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 100,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 10
+    }
+  },
+  {
+    "name": "Vikram Desai",
+    "headline": "Building fintech AI platform | Ex-Amazon | IIT Bombay",
+    "location": "Gurgaon, Haryana, India",
+    "linkedin_url": "https://www.linkedin.com/in/vikram-desai-amazon",
+    "company": "FinTech AI Platform",
+    "category": "Consumer x AI",
+    "description": "Ex-Amazon engineer building fintech AI platform",
+    "stage": "Stealth",
+    "background": "Ex-Amazon, IIT Bombay",
+    "conversation_starters": [
+      "Hi Vikram Desai! I noticed you're building FinTech AI Platform in consumer tech with AI from Gurgaon, Haryana, India. Your background in Ex-Amazon, IIT Bombay is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 98,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 8
+    }
+  },
+  {
+    "name": "Priya Sharma",
+    "headline": "Co-founder at MentalHealthTech | Building AI therapy platform | Ex-Meta",
+    "location": "Mumbai, Maharashtra, India",
+    "linkedin_url": "https://www.linkedin.com/in/priya-sharma-mentalhealth",
+    "company": "MentalHealthTech",
+    "category": "Health x AI",
+    "description": "Developing AI-based mental health assessment and therapy platforms",
+    "stage": "Early Stage",
+    "background": "Ex-Meta, IIM Bangalore",
+    "conversation_starters": [
+      "Hi Priya Sharma! I noticed you're building MentalHealthTech in health x AI from Mumbai, Maharashtra, India. Your background in Ex-Meta, IIM Bangalore is exactly what we look for at Antler. Would love to learn more about how you're applying AI to healthcare challenges in India."
+    ],
+    "score": 95,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 20,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 10
+    }
+  },
+  {
+    "name": "Anita Reddy",
+    "headline": "Co-founder at NutriTech | AI-powered nutrition platform | Ex-1mg",
+    "location": "Hyderabad, Telangana, India",
+    "linkedin_url": "https://www.linkedin.com/in/anita-reddy-nutritech",
+    "company": "NutriTech",
+    "category": "Health x AI",
+    "description": "AI-powered personalized nutrition and wellness platform",
+    "stage": "Stealth",
+    "background": "Ex-1mg, IIT Madras",
+    "conversation_starters": [
+      "Hi Anita Reddy! I noticed you're building NutriTech in health x AI from Hyderabad, Telangana, India. Your background in Ex-1mg, IIT Madras is exactly what we look for at Antler. Would love to learn more about how you're applying AI to healthcare challenges in India."
+    ],
+    "score": 95,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 10,
+      "location": 10
+    }
+  },
+  {
+    "name": "Riya Patel",
+    "headline": "Co-founder at consumer AI platform | IIM Bangalore 2024 | Ex-Amazon Intern",
+    "location": "Bangalore, Karnataka, India",
+    "linkedin_url": "https://www.linkedin.com/in/riya-patel-iimb2024",
+    "company": "Consumer AI Platform",
+    "category": "Consumer x AI",
+    "description": "Recent IIM Bangalore graduate building consumer AI platform",
+    "stage": "Early Stage",
+    "background": "IIM Bangalore 2024, Ex-Amazon Intern",
+    "conversation_starters": [
+      "Hi Riya Patel! I noticed you're building Consumer AI Platform in consumer tech with AI from Bangalore, Karnataka, India. Your background in IIM Bangalore 2024, Ex-Amazon Intern is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 95,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 20,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 10
+    }
+  },
+  {
+    "name": "Priya Iyer",
+    "headline": "Co-founder at consumer AI startup | Ex-Meta AI | MIT PhD",
+    "location": "Mumbai, Maharashtra, India",
+    "linkedin_url": "https://www.linkedin.com/in/priya-iyer-meta",
+    "company": "Consumer AI Startup",
+    "category": "Consumer x AI",
+    "description": "Ex-Meta AI researcher building consumer AI platform",
+    "stage": "Early Stage",
+    "background": "Ex-Meta AI, MIT PhD",
+    "conversation_starters": [
+      "Hi Priya Iyer! I noticed you're building Consumer AI Startup in consumer tech with AI from Mumbai, Maharashtra, India. Your background in Ex-Meta AI, MIT PhD is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 95,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 20,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 10
+    }
+  },
+  {
+    "name": "Arjun Malhotra",
+    "headline": "Founder at RetailTech Solutions | AI-driven retail analytics | Ex-Amazon",
+    "location": "Chennai, Tamil Nadu, India",
+    "linkedin_url": "https://www.linkedin.com/in/arjun-malhotra-retailtech",
+    "company": "RetailTech Solutions",
+    "category": "Consumer x AI",
+    "description": "AI-driven retail analytics and inventory optimization platform",
+    "stage": "Early Stage",
+    "background": "Ex-Amazon, IIT Madras",
+    "conversation_starters": [
+      "Hi Arjun Malhotra! I noticed you're building RetailTech Solutions in consumer tech with AI from Chennai, Tamil Nadu, India. Your background in Ex-Amazon, IIT Madras is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 93,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 20,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 8
+    }
+  },
+  {
+    "name": "Divya Gupta",
+    "headline": "Co-founder at FoodTech AI | AI-powered food delivery optimization | Ex-Swiggy",
+    "location": "Noida, Uttar Pradesh, India",
+    "linkedin_url": "https://www.linkedin.com/in/divya-gupta-foodtech",
+    "company": "FoodTech AI",
+    "category": "Consumer x AI",
+    "description": "AI-powered food delivery optimization and recommendation platform",
+    "stage": "Stealth",
+    "background": "Ex-Swiggy, IIM Bangalore",
+    "conversation_starters": [
+      "Hi Divya Gupta! I noticed you're building FoodTech AI in consumer tech with AI from Noida, Uttar Pradesh, India. Your background in Ex-Swiggy, IIM Bangalore is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 93,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 10,
+      "location": 8
+    }
+  },
+  {
+    "name": "Rahul Kumar",
+    "headline": "Building proptech solution | IIT Madras 2024 | Ex-NoBroker Intern",
+    "location": "Chennai, Tamil Nadu, India",
+    "linkedin_url": "https://www.linkedin.com/in/rahul-kumar-iitm2024",
+    "company": "PropTech Startup",
+    "category": "Consumer x AI",
+    "description": "Recent IIT Madras graduate building proptech solution",
+    "stage": "Stealth",
+    "background": "IIT Madras 2024, Ex-NoBroker Intern",
+    "conversation_starters": [
+      "Hi Rahul Kumar! I noticed you're building PropTech Startup in consumer tech with AI from Chennai, Tamil Nadu, India. Your background in IIT Madras 2024, Ex-NoBroker Intern is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 93,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 10,
+      "location": 8
+    }
+  },
+  {
+    "name": "Meera Nair",
+    "headline": "Co-founder at edtech AI startup | Ex-Microsoft | IIM Bangalore",
+    "location": "Pune, Maharashtra, India",
+    "linkedin_url": "https://www.linkedin.com/in/meera-nair-microsoft",
+    "company": "EdTech AI Startup",
+    "category": "Consumer x AI",
+    "description": "Ex-Microsoft product manager building edtech AI platform",
+    "stage": "Early Stage",
+    "background": "Ex-Microsoft, IIM Bangalore",
+    "conversation_starters": [
+      "Hi Meera Nair! I noticed you're building EdTech AI Startup in consumer tech with AI from Pune, Maharashtra, India. Your background in Ex-Microsoft, IIM Bangalore is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 93,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 20,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 8
+    }
+  },
+  {
+    "name": "Ananya Reddy",
+    "headline": "Co-founder at edtech platform | IIT Delhi 2024 | Ex-BYJU'S Intern",
+    "location": "Hyderabad, Telangana, India",
+    "linkedin_url": "https://www.linkedin.com/in/ananya-reddy-iitd2024",
+    "company": "EdTech Platform",
+    "category": "Consumer x AI",
+    "description": "Recent IIT Delhi graduate building edtech platform",
+    "stage": "Early Stage",
+    "background": "IIT Delhi 2024, Ex-BYJU'S Intern",
+    "conversation_starters": [
+      "Hi Ananya Reddy! I noticed you're building EdTech Platform in consumer tech with AI from Hyderabad, Telangana, India. Your background in IIT Delhi 2024, Ex-BYJU'S Intern is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 90,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 20,
+      "ai_focus": 20,
+      "background": 10,
+      "location": 10
+    }
+  },
+  {
+    "name": "Vikram Singh",
+    "headline": "Founder at FitnessAI | Computer vision fitness tracking | Ex-Cult.fit",
+    "location": "Pune, Maharashtra, India",
+    "linkedin_url": "https://www.linkedin.com/in/vikram-singh-fitnessai",
+    "company": "FitnessAI",
+    "category": "Health x AI",
+    "description": "Computer vision-based fitness tracking and coaching platform",
+    "stage": "Early Stage",
+    "background": "Ex-Cult.fit, BITS Pilani",
+    "conversation_starters": [
+      "Hi Vikram Singh! I noticed you're building FitnessAI in health x AI from Pune, Maharashtra, India. Your background in Ex-Cult.fit, BITS Pilani is exactly what we look for at Antler. Would love to learn more about how you're applying AI to healthcare challenges in India."
+    ],
+    "score": 88,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 20,
+      "ai_focus": 20,
+      "background": 10,
+      "location": 8
+    }
+  },
+  {
+    "name": "Rohit Verma",
+    "headline": "Building AI-driven fintech platform | Ex-Razorpay | IIT Delhi",
+    "location": "Ahmedabad, Gujarat, India",
+    "linkedin_url": "https://www.linkedin.com/in/rohit-verma-fintech",
+    "company": "FinTech AI",
+    "category": "Consumer x AI",
+    "description": "AI-driven financial services and lending platform",
+    "stage": "Early Stage",
+    "background": "Ex-Razorpay, IIT Delhi",
+    "conversation_starters": [
+      "Hi Rohit Verma! I noticed you're building FinTech AI in consumer tech with AI from Ahmedabad, Gujarat, India. Your background in Ex-Razorpay, IIT Delhi is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 85,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 20,
+      "ai_focus": 20,
+      "background": 15,
+      "location": 5
+    }
+  },
+  {
+    "name": "Priyanka Jain",
+    "headline": "Co-founder at EdTech AI | AI-powered personalized learning | Ex-BYJU'S",
+    "location": "Kolkata, West Bengal, India",
+    "linkedin_url": "https://www.linkedin.com/in/priyanka-jain-edtech",
+    "company": "EdTech AI",
+    "category": "Consumer x AI",
+    "description": "AI-powered personalized learning and education platform",
+    "stage": "Stealth",
+    "background": "Ex-BYJU'S, IIM Calcutta",
+    "conversation_starters": [
+      "Hi Priyanka Jain! I noticed you're building EdTech AI in consumer tech with AI from Kolkata, West Bengal, India. Your background in Ex-BYJU'S, IIM Calcutta is fascinating. Would love to discuss how you're leveraging AI for consumer experiences in India."
+    ],
+    "score": 85,
+    "tier": "A",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 25,
+      "ai_focus": 20,
+      "background": 10,
+      "location": 5
+    }
+  },
+  {
+    "name": "Rajesh Patel",
+    "headline": "Founder at TeleMed India | Building rural healthcare access | Ex-Practo",
+    "location": "Delhi, India",
+    "linkedin_url": "https://www.linkedin.com/in/rajesh-patel-telemed",
+    "company": "TeleMed India",
+    "category": "Health",
+    "description": "Building telemedicine platform for rural healthcare access",
+    "stage": "Early Stage",
+    "background": "Ex-Practo, AIIMS Delhi",
+    "conversation_starters": [
+      "Hi Rajesh Patel! I noticed you're building TeleMed India in healthcare from Delhi, India. Your background in Ex-Practo, AIIMS Delhi is impressive. Would love to discuss the healthtech opportunity in India and potential collaboration."
+    ],
+    "score": 70,
+    "tier": "B",
+    "score_breakdown": {
+      "founder": 30,
+      "stage": 20,
+      "ai_focus": 0,
+      "background": 10,
+      "location": 10
+    }
+  }
+]

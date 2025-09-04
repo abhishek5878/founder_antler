@@ -1,0 +1,39 @@
+{
+  "total_founders": 20,
+  "categories": {
+    "Health x AI": 6,
+    "Consumer x AI": 13,
+    "Health": 1
+  },
+  "locations": {
+    "Bangalore, Karnataka, India": 4,
+    "Mumbai, Maharashtra, India": 3,
+    "Delhi, India": 3,
+    "Gurgaon, Haryana, India": 1,
+    "Hyderabad, Telangana, India": 2,
+    "Chennai, Tamil Nadu, India": 2,
+    "Noida, Uttar Pradesh, India": 1,
+    "Pune, Maharashtra, India": 2,
+    "Ahmedabad, Gujarat, India": 1,
+    "Kolkata, West Bengal, India": 1
+  },
+  "stages": {
+    "Stealth": 11,
+    "Early Stage": 9
+  },
+  "tiers": {
+    "A": 19,
+    "B": 1,
+    "C": 0
+  },
+  "ai_adoption": {
+    "with_ai": 19,
+    "without_ai": 1
+  },
+  "backgrounds": {
+    "ex_faang": 10,
+    "ex_unicorns": 5,
+    "recent_graduates": 1,
+    "others": 4
+  }
+}
